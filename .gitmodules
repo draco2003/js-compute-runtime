@@ -4,4 +4,4 @@
 	shallow = true
 [submodule "runtime/StarlingMonkey"]
 	path = runtime/StarlingMonkey
-	url = git@github.com:bytecodealliance/StarlingMonkey
+	url = https://github.com/draco2003/StarlingMonkey.git
